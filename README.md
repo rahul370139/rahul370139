@@ -10,6 +10,14 @@ AI/ML engineer with **5 yrs in industry** shipping production systems — LLMs, 
 
 ## 🔎 Recent Work (selected)
 
+- **AI Cargo Monitor (agentic cold-chain risk intelligence)** — end-to-end system for pharmaceutical logistics that monitors temperature-sensitive shipments, predicts spoilage/delay risk with a hybrid rules + XGBoost engine, and triggers agentic mitigation workflows with human approval. Built with real-time telemetry ingestion, SHAP-based explainability, RAG compliance validation, and a LangGraph orchestrator that plans, executes, reflects, and revises actions before final stakeholder notification.  
+  _Stack:_ Python · FastAPI · LangGraph · XGBoost · SHAP · Supabase/PostgreSQL Realtime · RAG compliance · React 19 · Recharts · Mermaid · Groq/Ollama/OpenAI/Anthropic  
+  **Code:** https://github.com/rahul370139/SmithAgenticAIChallenge
+
+- **GPU Benchmarking & Intelligent Recommendation System (MLOps)** — end-to-end, containerized framework that benchmarks ML workloads across heterogeneous GPUs (AWS + on-prem) and recommends the most cost-efficient hardware. Supports reproducible experiments, partial benchmarking to reduce cost, and a KNN-based “no-run” predictor that suggests optimal GPUs for new workloads without full evaluation. Includes cross-cloud validation, automated reporting, and Kubernetes-based orchestration.  
+  _Stack:_ Python · Docker · Terraform · Kubernetes (k3s) · AWS EC2 (T4, A10G) · SQLite · Prometheus · KNN-based recommender · cost-aware optimization (throughput/$ · latency) · reproducibility (seeds, env capture)  
+  **Code:** https://github.com/rahul370139/gpu_cloud_benchmark
+
 - **Emotion-Aware NPCs (real-time CV for games)** — webcam-based system that senses a player’s affect and adapts NPC dialogue in a Unity game in real time. Uses facial emotion recognition plus valence–arousal mapping, temporal smoothing, and multi-signal fusion (FER + eye aspect ratio, head pose, optical flow) with a FastAPI backend.  
   _Stack:_ Python · FastAPI · ONNX FER models · temporal emotion dynamics (EMA, spike detection) · Unity 2022 (C# client) · REST API integration  
   **Code:** https://github.com/rahul370139/EmotionAwareNPCs
