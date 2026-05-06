@@ -45,7 +45,7 @@ AI/ML engineer with **5 yrs in industry** shipping production systems — LLMs, 
 
 - **SkillSpring** — PDF → microlearning (summaries, flashcards, quizzes), chatbot with framework detection, and career-path suggestions.  
   _Stack:_ FastAPI · LangChain/LangGraph · Cohere · Supabase/pgvector · Next.js · Tailwind · shadcn/ui · Vercel/Railway  
-  **Demo:** https://skillspring001.vercel.app/ · **Code:** https://github.com/rahul370139/SkillSpring
+  **Demo:** https://skillspring001.vercel.app/ · **Code:** https://github.com/rahul370139/easylearn
 
 - **Multimodal Fashion RecSys** — CLIP-based similarity + FAISS retrieval with captioning and segmentation to boost text–image match; supports virtual wardrobe and outfit recommendations.  
   _Stack:_ CLIP embeddings · BLIP captioning · segmentation models · FAISS · Streamlit demo  
