@@ -43,10 +43,6 @@ AI/ML engineer with **5 yrs in industry** shipping production systems — LLMs, 
   _Stack:_ AWS Lambda · Step Functions · EventBridge · EKS + NVIDIA Triton · Kinesis · S3 · Glue · Athena · QuickSight · IAM/WAF/GuardDuty  
   **Code:** https://github.com/rahul370139/Radstream
 
-- **SkillSpring** — PDF → microlearning (summaries, flashcards, quizzes), chatbot with framework detection, and career-path suggestions.  
-  _Stack:_ FastAPI · LangChain/LangGraph · Cohere · Supabase/pgvector · Next.js · Tailwind · shadcn/ui · Vercel/Railway  
-  **Demo:** https://skillspring001.vercel.app/ · **Code:** https://github.com/rahul370139/easylearn
-
 - **Multimodal Fashion RecSys** — CLIP-based similarity + FAISS retrieval with captioning and segmentation to boost text–image match; supports virtual wardrobe and outfit recommendations.  
   _Stack:_ CLIP embeddings · BLIP captioning · segmentation models · FAISS · Streamlit demo  
   **Code:** https://github.com/rahul370139/Fashion_Recommendation_model_demo
