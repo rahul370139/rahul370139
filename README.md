@@ -10,9 +10,14 @@ AI/ML engineer with **5 yrs in industry** shipping production systems — LLMs, 
 
 ## 🔎 Recent Work (selected)
 
-- **AI Cargo Monitor (agentic cold-chain risk intelligence)** — end-to-end system for pharmaceutical logistics that monitors temperature-sensitive shipments, predicts spoilage/delay risk with a hybrid rules + XGBoost engine, and triggers agentic mitigation workflows with human approval. Built with real-time telemetry ingestion, SHAP-based explainability, RAG compliance validation, and a LangGraph orchestrator that plans, executes, reflects, and revises actions before final stakeholder notification.  
+- **PathWise (AI-powered learning + career readiness platform)** — turns resumes, job descriptions, and PDFs into personalized learning paths, gap analysis, quizzes, flashcards, and grounded mock interviews. Uses a multi-agent workflow to identify what to learn next, track progress, and generate actionable career roadmaps with citation-backed retrieval and fallback search for reliability.  
+  _Stack:_ Python · FastAPI · Next.js · Azure AI Search (Foundry IQ) · Cohere · Supabase/PostgreSQL · pgvector · Groq · Vercel · VPS  
+  **Code:** https://github.com/rahul370139/pathwise  
+  **Demo:** https://pathwise-jade.vercel.app/
+
+- **AI Cargo Monitor (agentic cold-chain risk intelligence)** — end-to-end system for pharmaceutical logistics that monitors temperature-sensitive shipments, predicts spoilage/delay risk with a hybrid rules + XGBoost engine, and triggers agentic mitigation workflows with human approval. Built with real-time telemetry ingestion, SHAP-based explainability, RAG compliance validation, and a LangGraph orchestrator that plans, executes, reflects, and revises actions before final stakeholder notification. **Won First Prize at the Smith Hackathon Challenge ($4,000).**  
   _Stack:_ Python · FastAPI · LangGraph · XGBoost · SHAP · Supabase/PostgreSQL Realtime · RAG compliance · React 19 · Recharts · Mermaid · Groq/Ollama/OpenAI/Anthropic  
-  **Code:** https://github.com/rahul370139/SmithAgenticAIChallenge 
+  **Code:** https://github.com/rahul370139/SmithAgenticAIChallenge  
   **Demo:** https://ai-cargo-monitor-prod.vercel.app/
 
 - **GPU Benchmarking & Intelligent Recommendation System (MLOps)** — end-to-end, containerized framework that benchmarks ML workloads across heterogeneous GPUs (AWS + on-prem) and recommends the most cost-efficient hardware. Supports reproducible experiments, partial benchmarking to reduce cost, and a KNN-based “no-run” predictor that suggests optimal GPUs for new workloads without full evaluation. Includes cross-cloud validation, automated reporting, and Kubernetes-based orchestration.  
