@@ -2,7 +2,7 @@
 
 AI/ML engineer with **5 yrs in industry** shipping production systems — LLMs, vision models, and ML pipelines that *actually* get used.
 
-- 🎓 MS Data Science @ UMD (4.0)
+- 🎓 MS Data Science @ UMD
 - 🩺 Recently deep in **medical AI**: offline RAG, radiology VLMs, label ensembles, and cloud imaging infra
 - 🛠 I turn messy data + business goals into shipped features with metrics, monitoring, and CI/CD
 
